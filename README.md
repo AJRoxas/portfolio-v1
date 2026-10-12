@@ -1,6 +1,6 @@
-<p align='center'>🚨<b>This is an archive of my first portfolio page, archived on October 11, 2026 <a href="https://ajroxas.github.io/portfolio-v1/">ajroxas.github.io/portfolio-v1</a></b>🚨</p>
+<p align='center'>🚨<b>This is an archive of version one of my personal site, archived on October 11, 2026: <a href="https://ajroxas.github.io/portfolio-v1/">ajroxas.github.io/portfolio-v1</a></b>🚨</p>
 
-<p align='center'>🌐<b>For the latest, visit my personal site at: <a href="https://ajroxas.github.io/">ajroxas.github.io</a></b>🌐</p>
+<p align='center'>🌐<b>For my latest my personal site: <a href="https://ajroxas.github.io/">ajroxas.github.io</a></b>🌐</p>
 
 ---
 
